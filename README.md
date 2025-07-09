@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8866844f-9a38-4456-a6e4-3794e8ae9b55" alt="MasterHead" width="500" />
-</p>
+![MasterHead](https://github.com/user-attachments/assets/3c0f822c-9340-4b18-8104-ff337cae9e7d)
+
 
 
 
