@@ -1,4 +1,6 @@
-![MasterHead](https://github.com/user-attachments/assets/290b38af-f6ff-4ad0-a0e8-1cf07149df21)
+![MasterHead](https://github.com/user-attachments/assets/8866844f-9a38-4456-a6e4-3794e8ae9b55)
+
+
 <h1 align="center">Hi 👋, I'm Adedoyin Oyebanji</h1>
 <h3 align="center">I am a passionate Data Analyst who likes to explore data to reveal what was overlooked.</h3>
 
