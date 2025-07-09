@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Adedoyin Oyebanji</h1>
 <h3 align="center">I am a passionate Data Analyst who likes to explore data to reveal what was overlooked.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adedoyinoyebanji" alt="adedoyinoyebanji" /></a> </p>
+
 
 [Adedoyin Oyebanji](https://www.linkedin.com/in/adedoyinoyebanji/) is an enthusiastic  Data Analyst with a passion for leveraging data to drive research and innovation, particularly interested in leveraging big data analytics to solve complex problems and uncover actionable insights.
 
