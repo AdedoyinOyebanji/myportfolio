@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adedoyinoyebanji&show_icons=true&locale=en" alt="adedoyinoyebanji" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adedoyinoyebanji&" alt="https://www.linkedin.com/in/adedoyinoyebanji"/) /></p>
+
