@@ -1,4 +1,7 @@
-![MasterHead](https://github.com/user-attachments/assets/8866844f-9a38-4456-a6e4-3794e8ae9b55)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8866844f-9a38-4456-a6e4-3794e8ae9b55" alt="MasterHead" width="800" />
+</p>
+
 
 
 <h1 align="center">Hi 👋, I'm Adedoyin Oyebanji</h1>
