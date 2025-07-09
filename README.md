@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.igmguru.com%2Fblog%2Fdata-analytics-tutorial&psig=AOvVaw3wjqmA8_3er1mUpVTXzKPw&ust=1752173925925000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiPweTUurCOAxX9uYkEHRRrEVQQjRx6BAgAEBk)]
+[![MasterHead](![image](https://github.com/user-attachments/assets/290b38af-f6ff-4ad0-a0e8-1cf07149df21)]
 <h1 align="center">Hi 👋, I'm Adedoyin Oyebanji</h1>
 <h3 align="center">I am a passionate Data Analyst who likes to explore data to reveal what was overlooked.</h3>
 
