@@ -1,5 +1,5 @@
 
-[![MasterHead](![image](https://github.com/user-attachments/assets/290b38af-f6ff-4ad0-a0e8-1cf07149df21)]
+[![MasterHead](![image](https://github.com/user-attachments/assets/290b38af-f6ff-4ad0-a0e8-1cf07149df21))]
 <h1 align="center">Hi 👋, I'm Adedoyin Oyebanji</h1>
 <h3 align="center">I am a passionate Data Analyst who likes to explore data to reveal what was overlooked.</h3>
 
